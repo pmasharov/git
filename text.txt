@@ -1,1 +1,2 @@
 initial commit
+feature A part-1; feature A part-2; feature A part-3
